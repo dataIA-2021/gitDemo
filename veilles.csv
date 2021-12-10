@@ -1,0 +1,15 @@
+list_Alexia,list_Clara,list_Célia,list_César,list_Eric,list_François,list_Jérémy,list_Kyllian,list_Luis,list_Marceline,list_Noli,list_Silvain,list_Steve,list_Temirlan,list_Tesfabirhan,list_Victorien,session
+Steve,Alexia,Temirlan,François,Célia,Clara,Tesfabirhan,César,Kyllian,Eric,Victorien,Marceline,Noli,Silvain,Jérémy,Luis,15
+Kyllian,Silvain,Eric,Temirlan,Alexia,Marceline,Tesfabirhan,Clara,François,Victorien,Luis,Noli,Célia,César,Steve,Jérémy,15
+Marceline,Eric,Temirlan,Clara,César,Kyllian,Célia,François,Tesfabirhan,Luis,Victorien,Noli,Silvain,Alexia,Jérémy,Steve,15
+Silvain,Tesfabirhan,François,Victorien,César,Clara,Noli,Eric,Kyllian,Jérémy,Célia,Luis,Marceline,Steve,Temirlan,Alexia,15
+César,Tesfabirhan,Eric,Marceline,Alexia,Temirlan,Noli,Steve,Jérémy,Luis,Célia,Kyllian,Clara,François,Victorien,Silvain,15
+Eric,Alexia,Jérémy,Marceline,Tesfabirhan,Luis,Noli,Temirlan,Clara,François,Victorien,Kyllian,Silvain,Steve,Célia,César,15
+Noli,Jérémy,Eric,Victorien,Clara,Alexia,François,Luis,Kyllian,Steve,Tesfabirhan,Temirlan,Marceline,César,Célia,Silvain,15
+Silvain,Kyllian,François,Steve,Victorien,Jérémy,Célia,Eric,Temirlan,Clara,Marceline,César,Alexia,Tesfabirhan,Luis,Noli,15
+Eric,César,Steve,Temirlan,Célia,Silvain,Clara,Luis,Kyllian,Victorien,Jérémy,Tesfabirhan,Alexia,Noli,Marceline,François,15
+Clara,Silvain,Marceline,Luis,César,Célia,Kyllian,Victorien,Eric,François,Temirlan,Steve,Noli,Jérémy,Alexia,Tesfabirhan,15
+Tesfabirhan,Marceline,Luis,Temirlan,François,Kyllian,Clara,Silvain,Steve,Eric,Alexia,Jérémy,Célia,Victorien,César,Noli,15
+Steve,François,Tesfabirhan,Célia,Marceline,Eric,Temirlan,Silvain,Kyllian,Victorien,Clara,Alexia,Jérémy,Noli,César,Luis,15
+Silvain,Noli,Victorien,Clara,Luis,Eric,Marceline,Jérémy,Steve,Alexia,Tesfabirhan,Célia,César,François,Temirlan,Kyllian,15
+Steve,Alexia,Victorien,Marceline,Célia,Silvain,Tesfabirhan,Jérémy,Kyllian,Temirlan,Eric,Noli,César,Clara,Luis,François,15
