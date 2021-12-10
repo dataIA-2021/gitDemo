@@ -22,4 +22,9 @@ class myObject:
         self.df = pd.read_csv(self.url)
         print('Création, url:', self.url, 'et taille frame:', self.df.shape)
         
-#if __name__ == "__main__":
+if __name__ == "__main__":
+    print("Si execution de la classe directement...")
+    
+    obj2 = myObject("data.csv")
+    obj2.stat()
+    
